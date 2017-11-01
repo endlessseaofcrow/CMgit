@@ -1,1 +1,1 @@
-this is a txt.
+this is only a txt.
